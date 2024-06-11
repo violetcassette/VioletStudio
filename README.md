@@ -18,6 +18,7 @@ Please note that "fully working" only means "all important features implemented"
 - [ ] Begin implementation of country-based broadcasting guidelines
 - [ ] Begin implementation of remote logging options
 - [ ] Begin implementation of live programming options (programming which is not pre-recorded, such as a WeatherStar 4000)
+- [ ] Begin implementation of interstitial content management (with verbose schedule views showing where it resides)
 - [ ] Animated screenbugs and rating bugs should be mostly working by this stage
 - [ ] Single-feed video output should be fully working by this stage
 
