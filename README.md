@@ -38,7 +38,7 @@ Please note that "fully working" only means "all important features implemented"
 - [ ] Scheduling should be fully working by this stage
 
 ### RELEASE CANDIDATES
-- [ ] All features conceptuialized at the start of the project should be implemented
+- [ ] All features conceptuialized at the start of the project should be implemented whenever possible
 - [ ] Little to no new features should be introduced during this stage unless they are made cruical to the stability of the project
 - [ ] Most showstopping bugs should be cleared by this stage, but they can't be ruled out
 
