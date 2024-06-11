@@ -1,5 +1,5 @@
 # Roadmap
-Please note that "fully working" only means "all important features implemented". Bugs are likely to appear at any time, and I don't want to burden the project by refusing to move to next milestone, especialyl when more bugs will be introduced as a result of the new implementations. Also, "by this stage" means "by the introduction of this milestone". For example, Animated screenbugs should be working by the time we ENTER the alpha stage of development.
+Please note that "fully working" only means "all important features implemented". Bugs are likely to appear at any time, and I don't want to burden the project by refusing to move to next milestone, especially when more bugs will be introduced as a result of the new implementations. Also, "by this stage" means "by the introduction of this milestone". For example, Animated screenbugs should be working by the time we ENTER the alpha stage of development.
 
 ### CONCEPT
 - [ ] Likely consisting of nonfunctional output, but with progress made on implementing configuration menus
