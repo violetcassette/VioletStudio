@@ -30,6 +30,7 @@ Please note that "fully working" only means "all important features implemented"
 - [ ] Potential implementation of CAP/IPAWS?
 - [ ] Potentially implement an interface between VioletStudio and VirtualBox for automated TTS script editing and playback during fully software-based solutions
 - [ ] Implement migration of VioletStudio networks and configuration to different operating
+- [ ] Implement paginated "ticker" style
 - [ ] Emphasize localization in this stage
 - [ ] Open community featue requests
 - [ ] Configurations should be stable by this stage
